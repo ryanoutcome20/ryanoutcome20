@@ -6,8 +6,8 @@ Thanks for visiting my profile.
 
 **What I'm currently working on:**
 
-* 🌐 **Atlas** - An open-source networking library to bypass the bandwidth limitations placed on Source Engine games.
 * ☕ [**Coffee**](https://github.com/ryanoutcome20/Coffee) - An open-source trainer software for Garry's Mod.
+* 🌐 [**Atlas**](https://github.com/ryanoutcome20/Atlas) - An open-source networking library to bypass the bandwidth limitations placed on Source Engine games.
 
 <hr>
 
