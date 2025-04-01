@@ -14,7 +14,7 @@ Hi, I'm Ryan, a software engineer specializing in reverse engineering, game deve
 **Previous Projects:**
 
 * 💻 [**pGui**](https://github.com/ryanoutcome20/pGui) - A lightweight and modular Lua-based VGUI framework for dynamic interfaces.
-* 🔒 [**Cryptify**](https://github.com/ryanoutcome20/Cryptify) - A C# WinForms encryption tool with AES, RSA, and TripleDES support. Comes with drag-and-drop functionality for secure file handling.
+* 🔒 [**Cryptify**](https://github.com/ryanoutcome20/Cryptify) - A C# WinForms encryption tool with AES, RSA, DES, and TripleDES support. Comes with drag-and-drop functionality for secure file handling.
 * 🔥 [**Zephyr**](https://github.com/ryanoutcome20/Zephyr) - An open-source game modification tool for Counter-Strike: Global Offensive.
 * ⚖️ [**Benchmark Toolkit**](https://github.com/ryanoutcome20/Benchmark-Toolkit) - A Lua-based benchmarking tool that measures script execution speed and memory usage for optimization.
 
