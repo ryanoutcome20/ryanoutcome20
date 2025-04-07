@@ -6,13 +6,14 @@ Hi, I'm Ryan, a software engineer specializing in reverse engineering, game deve
 
 **What I'm currently working on:**
 
-* ☕ [**Coffee**](https://github.com/ryanoutcome20/Coffee) - An open-source game modification tool for Garry’s Mod.
+* 📚 [**CS50**](https://cs50.harvard.edu/x/2025/) & [**CS50W**](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
 * 🌐 [**Atlas**](https://github.com/ryanoutcome20/Atlas) - A networking library that bypasses Source Engine’s bandwidth limits, reducing lag and improving server performance.
 
 <hr>
 
 **Previous Projects:**
 
+* ☕ [**Coffee**](https://github.com/ryanoutcome20/Coffee) - An open-source game modification tool for Garry’s Mod.
 * 💻 [**pGui**](https://github.com/ryanoutcome20/pGui) - A lightweight and modular Lua-based VGUI framework for dynamic interfaces.
 * 🔒 [**Cryptify**](https://github.com/ryanoutcome20/Cryptify) - A C# WinForms encryption tool with AES, RSA, DES, and TripleDES support. Comes with drag-and-drop functionality for secure file handling.
 * 🔥 [**Zephyr**](https://github.com/ryanoutcome20/Zephyr) - An open-source game modification tool for Counter-Strike: Global Offensive.
