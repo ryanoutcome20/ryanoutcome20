@@ -7,7 +7,7 @@ Hi, I'm Ryan, a software engineer specializing in reverse engineering, game deve
 **What I'm currently working on:**
 
 * 📘 [**CS50x**](https://cs50.harvard.edu/x/2025/) - Harvard's introduction to the intellectual enterprises of computer science and the art of programming. Taught by professor [David J. Malan](https://github.com/dmalan).
-* 📗 [**CS50w**](https://cs50.harvard.edu/web/2020/) - Harvard's instruction on deep-level design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Taunt by [Brian Yu](https://github.com/brianyu28).
+* 📗 [**CS50w**](https://cs50.harvard.edu/web/2020/) - Harvard's instruction on deep-level design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Taught by [Brian Yu](https://github.com/brianyu28).
 * 📙 [**CS50p**](https://cs50.harvard.edu/python/2022/) - Harvard's introduction to design principles and coding techniques relating specifically to Python. Taught by professor [David J. Malan](https://github.com/dmalan).
   
 <hr>
