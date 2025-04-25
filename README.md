@@ -52,6 +52,8 @@ Hi, I'm Ryan, a software engineer specializing in reverse engineering, game deve
   <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
   <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
   <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
+  <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg"" />
 </p>
 
 ****Systems:****
