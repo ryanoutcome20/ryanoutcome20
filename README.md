@@ -1,20 +1,21 @@
 ## Hello, World! 👋
 
-Hi, I'm Ryan, a software engineer specializing in reverse engineering, game development, and cybersecurity. I enjoy building low-level tools, optimizing performance, and pushing the limits of software security. Thanks for visiting my profile.
+Hi, I’m Ryan, a software engineer specializing in reverse engineering, game development, and cybersecurity. I enjoy building low-level tools, optimizing performance, and pushing the limits of software security. Thanks for visiting my profile.
 
 <hr>
 
-**What I'm currently working on:**
+**What I’m currently working on:**
 
-* 📘 [**CS50x**](https://cs50.harvard.edu/x/2025/) - Harvard's introduction to the intellectual enterprises of computer science and the art of programming. Taught by professor [David J. Malan](https://github.com/dmalan).
-* 📗 [**CS50w**](https://cs50.harvard.edu/web/2020/) - Harvard's instruction on deep-level design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Taught by [Brian Yu](https://github.com/brianyu28).
-* 📙 [**CS50p**](https://cs50.harvard.edu/python/2022/) - Harvard's introduction to design principles and coding techniques relating specifically to Python. Taught by professor [David J. Malan](https://github.com/dmalan).
+* 📘 [**CS50x**](https://cs50.harvard.edu/x/2025/) - Harvard’s introduction to the intellectual enterprises of computer science and the art of programming. Taught by professor [David J. Malan](https://github.com/dmalan).
+* 📗 [**CS50w**](https://cs50.harvard.edu/web/2020/) - Harvard’s instruction on deep-level design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Taught by [Brian Yu](https://github.com/brianyu28).
+* 📙 [**CS50p**](https://cs50.harvard.edu/python/2022/) - Harvard’s introduction to design principles and coding techniques relating specifically to Python. Taught by professor [David J. Malan](https://github.com/dmalan).
   
 <hr>
 
 **Previous Projects:**
 
 * 🌐 [**Atlas**](https://github.com/ryanoutcome20/Atlas) - A networking library that bypasses Source Engine’s bandwidth limits, reducing lag and improving server performance.
+* ☎️ [**hLib**](https://github.com/ryanoutcome20/hLib) - An open-source hooking library for Garry’s Mod.
 * ☕ [**Coffee**](https://github.com/ryanoutcome20/Coffee) - An open-source game modification tool for Garry’s Mod.
 * 💻 [**pGui**](https://github.com/ryanoutcome20/pGui) - A lightweight and modular Lua-based VGUI framework for dynamic interfaces.
 * 🔒 [**Cryptify**](https://github.com/ryanoutcome20/Cryptify) - A C# WinForms encryption tool with AES, RSA, DES, and TripleDES support. Comes with drag-and-drop functionality for secure file handling.
