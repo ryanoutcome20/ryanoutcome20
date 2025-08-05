@@ -9,6 +9,7 @@ Hi, I’m Ryan, a software engineer specializing in reverse engineering, game de
 * 📘 [**CS50x**](https://cs50.harvard.edu/x/2025/) - Harvard’s introduction to the intellectual enterprises of computer science and the art of programming. Taught by professor [David J. Malan](https://github.com/dmalan).
 * 📗 [**CS50w**](https://cs50.harvard.edu/web/2020/) - Harvard’s instruction on deep-level design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Taught by [Brian Yu](https://github.com/brianyu28).
 * 📙 [**CS50p**](https://cs50.harvard.edu/python/2022/) - Harvard’s introduction to design principles and coding techniques relating specifically to Python. Taught by professor [David J. Malan](https://github.com/dmalan).
+* **Trinity Anti-Cheat** - Specialized anti-cheat system.
   
 <hr>
 
@@ -20,7 +21,6 @@ Hi, I’m Ryan, a software engineer specializing in reverse engineering, game de
 * 💻 [**pGui**](https://github.com/ryanoutcome20/pGui) - A lightweight and modular Lua-based VGUI framework for dynamic interfaces.
 * 🔒 [**Cryptify**](https://github.com/ryanoutcome20/Cryptify) - A C# WinForms encryption tool with AES, RSA, DES, and TripleDES support. Comes with drag-and-drop functionality for secure file handling.
 * 🔥 [**Zephyr**](https://github.com/ryanoutcome20/Zephyr) - An open-source game modification tool for Counter-Strike: Global Offensive.
-* ⚖️ [**Benchmark Toolkit**](https://github.com/ryanoutcome20/Benchmark-Toolkit) - A Lua-based benchmarking tool that measures script execution speed and memory usage for optimization.
 
 <hr>
 
